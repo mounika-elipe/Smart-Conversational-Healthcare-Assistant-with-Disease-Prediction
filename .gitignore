@@ -24,3 +24,9 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+# Trained models (DO NOT PUSH)
+*.keras
+*.h5
+*.pth
+*.pkl
+*.xlsx
