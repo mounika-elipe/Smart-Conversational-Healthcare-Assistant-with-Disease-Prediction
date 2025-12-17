@@ -1,0 +1,4 @@
+- [ ] Fix model loading in backend/main.py: Load image_model as Keras model from dermnet_mobilenetv2.h5
+- [ ] Remove incorrect PyTorch loading code
+- [ ] Fix indentation and syntax errors
+- [ ] Test running the backend

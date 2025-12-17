@@ -1,0 +1,16 @@
+# Core ML / Deep Learning
+tensorflow
+scikit-learn
+joblib
+numpy
+librosa
+# API Backend
+fastapi
+uvicorn
+
+# Frontend
+streamlit
+requests
+
+# Image handling
+pillow

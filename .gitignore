@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Datasets & raw data
+dataset/
+dermnet/
+voice_diseases1/
+
+# Model files
+*.pth
+*.h5
+*.pkl
+
+# Audio / images
+*.wav
+*.mp3
+*.png
+*.jpg
+
+# Cache
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

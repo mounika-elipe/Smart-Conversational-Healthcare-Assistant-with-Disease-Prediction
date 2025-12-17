@@ -1,0 +1,4 @@
+{
+  "architecture": "resnet18",
+  "num_classes": 23
+}
